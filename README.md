@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @vo1x
-- 👀 I’m interested in tech and programming
-- 🌱 I’m currently learning JavaScript and Go
+### 👋 Hi , I'm volx!
 
-<!---
-vo1x/vo1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 I'm a student who's interested in tech and coding
+
+##### BIO
+
+- 📑 I'm currently learning **JavaScript and Go**
+- 🌍 I'm mostly active on Discord in the **No Text To Speech Community**
+- 📫 Reach me: [discordapp.com/users/volx](https://discordapp.com/users/727759958552215583)
+
+
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&hide_border=true&theme=github_dark" />
