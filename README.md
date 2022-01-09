@@ -1,6 +1,6 @@
 ### 👋 Hi , I'm volx!
 
-###  I'm a student looking to learn some code ;) ###
+###  I'm a student who likes tech and coding :D ###
 
 - [x] `Discord dwelller`
 
