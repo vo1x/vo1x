@@ -1,12 +1,27 @@
 ### 👋 Hi , I'm volx!
 
-## 👨‍💻 I'm a student who's interested in tech and coding
+###  I'm a student looking to learn some code ;) ###
 
-##### BIO
+- [x] `Discord dwelller`
 
-- 📑 I'm currently learning **JavaScript and Go**
-- 🌍 I'm mostly active on Discord in the **No Text To Speech Community**
-- 📫 Reach me: [discordapp.com/users/volx](https://discordapp.com/users/727759958552215583)
+- [x] `Tech nerd`
+
+- [x] `Reads Light Novels`
+
+- [ ] `Doesn't suck at life`
+
+-----
 
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&hide_border=true&theme=github_dark" />
+
+These are my stats. I don't use GitHub much so these stats might not change at all :)
+
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+
+**Currently listening to:**
+
+![Spotify](https://novatorema.vercel.app/api/spotify)
+
