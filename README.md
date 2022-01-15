@@ -8,7 +8,7 @@
 
 - [x] `Reads Light Novels`
 
-- [ ] `Doesn't suck at life`
+- [ ] `Doesn't suck at sucking at life`
 
 -----
 
