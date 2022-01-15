@@ -19,9 +19,4 @@ These are my stats. I don't use GitHub much so these stats might not change at a
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
------
-
-**Currently listening to:**
-
-![Spotify](https://novatorema.vercel.app/api/spotify)
 
