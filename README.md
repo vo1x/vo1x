@@ -1,15 +1,7 @@
 <h1 align="center">👋 Hi, I'm volx</h1>
+-----
+
 <h3 align="center">I'm a student passionate about coding</h3>
-
-
-- [x] `Discord dwelller`
-
-- [x] `Tech nerd`
-
-- [x] `Reads Light Novels`
-
-- [ ] `Doesn't suck at sucking at life`
-
 -----
 
 
