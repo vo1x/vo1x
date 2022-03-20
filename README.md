@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm volx</h1>
-<h3 align="center"><b>I'm a student passionate about coding</b></h3>
+<em><b>I'm a student passionate about coding</b></em>
 
 
-
+I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!
 
 -----
 <h3 align="left">Languages and Tools:</h3>
