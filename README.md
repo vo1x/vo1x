@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm volx</h1>
-<em><b><center>I'm a student passionate about coding.<center></b></em>
+<p align = "center"><em><b><center>I'm a student passionate about coding.<center></b></em></p>
 
 ### 📖 More about me:
 - I'm actively learning Python and also code Discord bots in my free time.
