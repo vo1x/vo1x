@@ -1,4 +1,4 @@
-### 👋 Hi , I'm volx!
+# <center>👋 Hi , I'm volx!</center>
 
 ###  I'm a student who likes tech and coding :D ###
 
