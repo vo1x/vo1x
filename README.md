@@ -1,22 +1,13 @@
-### 👋 Hi , I'm volx!
+<h1 align="center">Hi 👋, I'm volx</h1>
+<h3 align="center">I'm a student passionate about coding</h3>
 
-###  I'm a student who likes tech and coding :D ###
+- 📫 How to reach me **vo1x.original@gmail.com**
 
-- [x] `Discord dwelller`
+- ⚡ Fun fact **I've got ADHD**
 
-- [x] `Tech nerd`
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/volx_original" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="volx_original" height="30" width="40" /></a>
+</p>
 
-- [x] `Reads Light Novels`
-
-- [ ] `Doesn't suck at sucking at life`
-
------
-
-
-
-These are my stats. I don't use GitHub much so these stats might not change at all :)
-
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vo1x&show_icons=true&locale=en" alt="vo1x" /></p>
