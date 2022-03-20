@@ -1,6 +1,6 @@
-# <center>👋 Hi , I'm volx!</center>
+<h1 align="center">Hi 👋, I'm volx</h1>
+<h3 align="center">I'm a student passionate about coding</h3>
 
-###  I'm a student who likes tech and coding :D ###
 
 - [x] `Discord dwelller`
 
