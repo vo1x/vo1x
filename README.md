@@ -2,9 +2,9 @@
 <em><b><center><h3 align = "center">I'm a student passionate about coding.<center></h3></b></em>
 
 ### 📖 More about me:
-- I'm actively learning web development and also code Discord bots in my free time.
+- I'm actively learning web development in my free time.
 - I'm on Discord way too much.
-- Fun fact, I've got ADHD.
+
 
 ### 📊 Github Statistics
 
