@@ -4,4 +4,4 @@
 ### 📢Contact Info
 
 - Send an email to **vo1x.original@gmail.com** if you ever need to contact me. 
-- If you're a Gen-Z kid that is too cool to write emails, fire me a DM on Discord. My username is **volx#0076**
+- You can DM me on Discord too. My username is **volx#9310**
