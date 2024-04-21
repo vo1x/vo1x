@@ -4,4 +4,4 @@
 ### 📢Contact Info
 
 - Send an email to **vo1x.original@gmail.com** if you ever need to contact me. 
-- You can DM me on Discord too. My username is **volx#9310**
+- You can DM me on Discord too. My username is **@vo1x**
