@@ -3,5 +3,5 @@
 
 ### 📢Contact Info
 
-- Send an email to **v0lx@icloud.com** if you ever need to contact me. 
+- Send an email to **contact@volx.dev** if you ever need to contact me. 
 - You can DM me on Discord too. My username is **@vo1x**
